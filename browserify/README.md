@@ -1,3 +1,9 @@
+Artical Inspriation
+http://blog.namangoel.com/browserify-vs-webpack-js-drama
+
+Why I chose Browserify?
+Emmulates a node setup and another goal of mine is to get more familiar with NPM and its capabilities
+
 What was learned from this project:
 
 Why we need Browserify, and why it's awesome;
